@@ -2,7 +2,7 @@
 Practicing sorting algorithms
 
 
-### Algorithms capable of sorting integers and strings. Basic ones are capable of sorting both ways, more complex still need that part implemented.
+#### Algorithms capable of sorting integers and strings. Basic ones are capable of sorting both ways, more complex still need that part implemented.
 
 
 - Shell sort
